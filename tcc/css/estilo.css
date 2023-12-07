@@ -1,0 +1,14 @@
+
+.footer{
+	margin: 30px;
+	display: flex;
+	padding: 100px 0;
+}
+.footer img{
+	width: 50px;
+}
+.footer span{
+	font-size: 0.8125rem;
+	color: #818181;
+	margin: 0 20px;
+}
